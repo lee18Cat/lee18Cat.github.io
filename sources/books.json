@@ -1,0 +1,82 @@
+[
+    {
+        "publisher": "人教版小学语文",
+        "bookList": [
+            {
+                "name": "一年级（上册）",
+                "id": "",
+                "cover": "https://lee18cat.github.io/cover/cover_renjiao_yuwen_1-1.png"
+            },
+            {
+                "name": "一年级（下册）",
+                "id": "",
+                "cover": "https://lee18cat.github.io/cover/cover_renjiao_yuwen_1-2.png"
+            },
+            {
+                "name": "二年级（上册）",
+                "id": "",
+                "cover": "https://lee18cat.github.io/cover/cover_renjiao_yuwen_2-1.png"
+            },
+            {
+                "name": "二年级（下册）",
+                "id": "",
+                "cover": "https://lee18cat.github.io/cover/cover_renjiao_yuwen_2-2.png"
+            },
+            {
+                "name": "三年级（上册）",
+                "id": "",
+                "cover": "https://lee18cat.github.io/cover/cover_renjiao_yuwen_3-1.png"
+            },
+            {
+                "name": "三年级（下册）",
+                "id": "",
+                "cover": "https://lee18cat.github.io/cover/cover_renjiao_yuwen_3-2.png"
+            }
+        ]
+    },
+    {
+        "publisher": "人教PEP小学英语",
+        "bookList": [
+            {
+                "name": "三年级（上册）",
+                "id": "",
+                "cover": "https://lee18cat.github.io/cover/cover_renjiao_pep_yingyu_3-1.png"
+            },
+            {
+                "name": "三年级（下册）",
+                "id": "",
+                "cover": "https://lee18cat.github.io/cover/cover_renjiao_pep_yingyu_3-2.png"
+            },
+            {
+                "name": "四年级（上册）",
+                "id": "",
+                "cover": "https://lee18cat.github.io/cover/cover_renjiao_pep_yingyu_4-1.png"
+            },
+            {
+                "name": "四年级（下册）",
+                "id": "",
+                "cover": "https://lee18cat.github.io/cover/cover_renjiao_pep_yingyu_4-2.png"
+            },
+            {
+                "name": "五年级（上册）",
+                "id": "",
+                "cover": "https://lee18cat.github.io/cover/cover_renjiao_pep_yingyu_5-1.png"
+            },
+            {
+                "name": "五年级（下册）",
+                "id": "",
+                "cover": "https://lee18cat.github.io/cover/cover_renjiao_pep_yingyu_5-2.png"
+            },
+            {
+                "name": "六年级（上册）",
+                "id": "",
+                "cover": "https://lee18cat.github.io/cover/cover_renjiao_pep_yingyu_6-1.png"
+            },
+            {
+                "name": "六年级（下册）",
+                "id": "",
+                "cover": "https://lee18cat.github.io/cover/cover_renjiao_pep_yingyu_6-2.png"
+            }
+        ]
+    }
+]
