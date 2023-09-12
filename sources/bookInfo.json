@@ -4,7 +4,7 @@
         "course": "语文",
         "grade": "一年级",
         "volume": "上册",
-        "stateCode": 0,
+        "stateCode": 1,
         "isEnglish": false,
         "bookWidth": 650,
         "bookHeight": 1122,
